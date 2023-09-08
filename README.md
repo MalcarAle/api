@@ -126,7 +126,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)**
 -   **[Multer](https://www.npmjs.com/package/multer)**
 -   **[PM2](https://pm2.keymetrics.io/)**
--   **[Jest](https://jestjs.io/pt-BR/)**
 
 > Veja o arquivo  [package.json](https://github.com/MalcarAle/api/blob/main/package.json)
 
