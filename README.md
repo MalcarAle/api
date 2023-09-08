@@ -65,10 +65,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:pabloxt14/Rocketnotes-API.git
+$ git clone https://github.com/MalcarAle/api.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Rocketnotes-API
+$ cd API
 
 # Configure as variáveis de ambiente em um arquivo .env na raiz do projeto (use o arquivo .env.example como base)
 
