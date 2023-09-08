@@ -128,7 +128,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[PM2](https://pm2.keymetrics.io/)**
 -   **[Jest](https://jestjs.io/pt-BR/)**
 
-> Veja o arquivo  [package.json](https://github.com/MalcarAle/api/package.json)
+> Veja o arquivo  [package.json](https://github.com/MalcarAle/api/blob/main/package.json)
 
 
 
